@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Demo</string>
+
+    <string name="english_str1">english</string>
+    <string name="gujrati_str1">gujrati</string>
+    <string name="hindi_str1">hindi</string>
+    <string name="marathi_str1">marathi</string>
+    <string name="tamil_str1">tamil</string>
+    <string name="panjabi_str1">panjabi</string>
+
+
+</resources>
